@@ -34,8 +34,8 @@ var Main = React.createClass({
 
 				
 					<div className="jumbotron">
-						<h2 className="text-center"><strong>(ReactJS) New York Times Article Scrubber</strong></h2>
-						<h3 className="text-center">Search for and save articles of interest.</h3>
+						<h2 className="text-center"><strong>(ReactJS) New York Times Article Scrubber by Walid</strong></h2>
+						<h3 className="text-center">Search for and save articles that you like.</h3>
 					</div>
 
 					{this.props.children}

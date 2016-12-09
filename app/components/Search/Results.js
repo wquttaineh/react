@@ -33,7 +33,7 @@ var Results = React.createClass({
 				<li className="list-group-item">
 					
 					<h3>
-					  	<span><em>Enter search terms to begin...</em></span>
+					  	<span><em>What would you like to search...</em></span>
 					</h3>
 					
 			  	</li>
